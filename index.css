@@ -1,0 +1,9 @@
+#map { height: 720px; }
+#imgContainer {
+    width: 80%;
+    height: 250px;
+}
+#xyz {
+    width: 25vw;
+    height: 40vw;
+}
