@@ -9,7 +9,7 @@ This application is used to identify the green cover in the drone footage.
   2. [Deepak Laksman J.](https://github.com/Deepak-Laksman/)
 
 # Proposed Solution
-Our Prototype gives a video sample marking the tree and also predicting following on UI:
+Our Prototype gives a [video sample](https://drive.google.com/file/d/1XYUCJZqV1dfV9VXl2k490NXHeo9TZRyw/view?usp=sharing/) marking the tree and also predicting following on [UI](https://mail2jrohit.github.io/Drone_Based_Biodiversity_Management/):
    1. Identitfying the green cover.
    2. Calculating the total area of green cover.
    3. Indentifying the tree diversity.
