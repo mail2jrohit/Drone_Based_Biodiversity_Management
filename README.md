@@ -7,6 +7,7 @@ This application is used to identify the green cover in the drone footage.
 # Team Members
   1. [Rohit Jain](https://github.com/mail2jrohit/)
   2. [Deepak Laksman J.](https://github.com/Deepak-Laksman/)
+  3. [Abhishek Kumar Pathak](https://github.com/pathak-abhi/)
 
 # Proposed Solution
 Our Prototype gives a [video sample](https://drive.google.com/file/d/1XYUCJZqV1dfV9VXl2k490NXHeo9TZRyw/view?usp=sharing/) marking the tree and also predicting following on [UI](https://mail2jrohit.github.io/Drone_Based_Biodiversity_Management/):
